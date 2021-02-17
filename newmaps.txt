@@ -1,0 +1,12 @@
+1:Eldoret, Uasin Gishu, Kenya
+2:Embakasi, Central Business District, Nairobi, Kenya
+3:Garissa, Northeast Kenya, Kenya
+4:Kakamega, West Kenya, Kenya
+5:Kisumu, Nyanza, 40100, Kenya
+6:Lamu, Coastal Kenya, Kenya
+7:Vihiga, West Kenya, Kenya
+8:Mombasa, Coastal Kenya, Kenya
+9:Nairobi, Kenya
+10:Nakuru, 20100, Kenya
+11:Nyeri, Central Kenya, Kenya
+12:Juja, Kiambu, Central Kenya, Kenya
